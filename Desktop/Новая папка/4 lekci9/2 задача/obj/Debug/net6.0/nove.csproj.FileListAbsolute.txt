@@ -1,0 +1,30 @@
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.csproj.AssemblyReference.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.AssemblyInfoInputs.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.AssemblyInfo.cs
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.csproj.CoreCompileInputs.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/bin/Debug/net6.0/nove
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/bin/Debug/net6.0/nove.deps.json
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/bin/Debug/net6.0/nove.runtimeconfig.json
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/bin/Debug/net6.0/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/bin/Debug/net6.0/nove.pdb
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/refint/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.pdb
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/nove.genruntimeconfig.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/nove/obj/Debug/net6.0/ref/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/bin/Debug/net6.0/nove
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/bin/Debug/net6.0/nove.deps.json
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/bin/Debug/net6.0/nove.runtimeconfig.json
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/bin/Debug/net6.0/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/bin/Debug/net6.0/nove.pdb
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.csproj.AssemblyReference.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.AssemblyInfoInputs.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.AssemblyInfo.cs
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.csproj.CoreCompileInputs.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/refint/nove.dll
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.pdb
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/nove.genruntimeconfig.cache
+/Users/nikitateplasin/Desktop/Новая папка/4 lekci9/2 задача/obj/Debug/net6.0/ref/nove.dll
